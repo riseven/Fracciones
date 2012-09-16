@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1124807807 c:\documents and settings\riseven\mis documentos\proyectos\fracciones\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<string>
+
